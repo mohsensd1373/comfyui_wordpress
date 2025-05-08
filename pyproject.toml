@@ -9,6 +9,6 @@ Repository = "https://github.com/mohsensd1373/comfyui_wordpress"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "@mohsensd1373"
+PublisherId = "@kingblack7313"
 DisplayName = "comfyui_wordpress"
 Icon = ""
